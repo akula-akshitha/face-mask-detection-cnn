@@ -1,0 +1,18 @@
+venv/
+__pycache__/
+*.pyc
+frontend/node_modules/
+frontend/dist/
+.env
+.env.*
+.pytest_cache/
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
+uploads/
+
+# Duplicate model
+models/face_mask_cnn.keras
+
+# Dataset
+dataset/
